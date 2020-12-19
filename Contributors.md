@@ -38,6 +38,7 @@ ashwini
 [Saad Patel](https://github.com/Saad2714)
  [kzack123](https://github.com/kzack123)
 - [NikodemJanaszak](https://github.com/NikodemJanaszak)
+- kuss
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
 - [Courtney Corlew](https://github.com/courtneycorlew)
